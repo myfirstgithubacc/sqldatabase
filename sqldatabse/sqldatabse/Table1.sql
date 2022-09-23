@@ -3,5 +3,4 @@
 	[Id] INT NOT NULL PRIMARY KEY, 
     [abc] NCHAR(10) NOT NULL, 
     [xyz] NCHAR(10) NOT NULL, 
-    [mno] NCHAR(10) NOT NULL,
 )
