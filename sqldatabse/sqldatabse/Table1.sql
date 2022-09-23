@@ -6,4 +6,5 @@
     [mno] NCHAR(10) NOT NULL
     [pqr] NCHAR(10) NOT NULL
     [stu] NCHAR(10) NOT NULL   
+    
 )
